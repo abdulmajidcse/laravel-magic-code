@@ -1,0 +1,21 @@
+{
+    "name": "abdulmajidcse/laravel-magic-code",
+    "description": "This is a generator like serial ID, structural invoice no, phone/mobile no hidden etc.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "AbdulMajidCSE\\LaravelMagicCode\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Abdul Majid",
+            "email": "abdulmajidcse@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.1"
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
